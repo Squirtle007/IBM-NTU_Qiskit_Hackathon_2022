@@ -1,6 +1,6 @@
 # IBM-NTU_Qiskit_Hackathon_2022
-# The raw files in the IBM-NTU Qiskit Hackathon 2022 competition
-# Due to tight deadline in the competition,  we did not optimize the codes to be readable. All functions are collected in the following files:
+\n The raw files in the IBM-NTU Qiskit Hackathon 2022 competition
+\n Due to tight deadline in the competition,  we did not optimize the codes to be readable. All functions are collected in the following files:
 
 QAOA_for_Ising_2.ipynb is used to construct Ising model coefficient matrix (based on the problem-to-solve) and the corresponding quantum circuit.
 QAOA_for_TSP(3_city).ipynb and QAOA_for_TSP(3_city).ipynb should merge into the file QAOA_for_Ising_2.ipynb for parameter optimization of thr quantum circuit.
