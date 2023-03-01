@@ -8,7 +8,7 @@ QAOA_for_TSP(3_city).ipynb and QAOA_for_TSP(3_city).ipynb should merge into the 
 Note that the optimizer does matter in finding the optimal solution.  
 The PPT slides are our presentation including the problem definition, QAOA, and the experiment results.  
   
-  
+-----------------------------------  
   
 Group Members  
 王勻遠, Yun-Yuan Wang (presenter, coding, coordinator) - @squirtle007 - pikachu1115pika@gmail.com  
