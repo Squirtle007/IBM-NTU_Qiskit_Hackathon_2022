@@ -11,7 +11,7 @@ The PPT slides are our presentation including the problem definition, QAOA, and 
 -----------------------------------  
   
 Group Members  
-王勻遠, Yun-Yuan Wang (presenter, coding, coordinator) - @squirtle007 - pikachu1115pika@gmail.com  
+王勻遠, Yun-Yuan Wang (presenter, coding, coordinator) - @squirtle007  
 何紹威, Shao-Wei Ho (coding)  
 張淮竣, Huai-Chun Chang (coding, computing resource provider) - @harui2019 - james880818@gmail.com  
 楊淯元, Yu-Yuan Yang (presenter, visualization) - @yuyuan871111  
